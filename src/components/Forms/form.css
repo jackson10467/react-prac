@@ -45,3 +45,31 @@ label {
   background-color: white;
   border:2px solid grey;
 }
+.select-smallL{
+  padding:1em 1.4em .5em .8em;
+  margin-top:10px;
+  width:110px;
+  margin:0;
+  height:20px;
+  background-color: lightgray;
+  border:2px solid grey;
+}
+.select-mediumL{
+  padding:1em 1.4em .5em .8em;
+  margin-top:10px;
+  width:150px;
+  margin:0;
+  height:20px;
+  background-color: lightgray;
+  border:2px solid grey;
+  border-radius: 0%;
+}
+.select-largeL{
+  padding:1em 1.4em .5em .8em;
+  margin-top:10px;
+  width:180px;
+  margin:0;
+  height:20px;
+  background-color: lightgray;
+  border:2px solid grey;
+}

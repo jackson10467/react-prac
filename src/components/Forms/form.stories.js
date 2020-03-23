@@ -18,3 +18,12 @@ storiesOf("Forms", module)
   .add("Select Large", () => (
     <Select label="Email" type="select-large"option="Option1" option2="option2" option3="Option3" />
   ))
+  .add("Select-light small", () => (
+    <Select label="Email" type="select-smallL" option="placeholder" />
+  ))
+  .add("Select-light Medium", () => (
+    <Select label="Email" type="select-mediumL" option2="placeholder" />
+  ))
+  .add("Select-light Large", () => (
+    <Select label="Email" type="select-largeL"option="Option1" option2="option2" option3="Option3" />
+  ))

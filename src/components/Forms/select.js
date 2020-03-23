@@ -17,8 +17,6 @@ const Select = (props) => (
       <option value={props.option2}>{props.option2}</option>
       <option value={props.option3}>{props.option3}</option>
       </datalist>
-      
-
     </form>
   </>
 )
